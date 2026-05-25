@@ -1,0 +1,22 @@
+Reference,Algorithm Name,,Therapy Duration
+,,,(days)
+"Wu, X., Hou, Y. & Zhang, K. Switched system optimal control approach for drug administration in cancer chemotherapy, Biomed. Signal Process. Control. 75, 103575 (2022). DOI 10.1016/j.bspc.2022.103575",Optimal Control,,30
+"Shindi, O., Kanesan, J., Kendall, G. & Ramanathan, A. The combined effect of optimal control and swarm intelligence on optimization of cancer chemotherapy. Comput. Methods Programs Biomed. 189, 105327 (2020). DOI https://doi.org/10.1016/j.cmpb.2020.105327",Optimal COntrol,,50
+"Sarhaddi, M. & Yaghoobi, M. A new approach in cancer treatment regimen using adaptive fuzzy back-stepping sliding mode control and tumor-immunity fractional order model. Biocybern. Biomed. Eng. 40, 1654–1665 (2020). DOI https://doi.org/10.1016/j.bbe.2020.09.00",Adaptive Fuzzy Backstepping-based SMC,,100
+"Kumar, A., Dubey, U. S. & Dubey, B. The impact of radio-chemotherapy on tumour cells interaction with optimal control and sensitivity analysis. Math. Biosci. 369, 109146 (2024). DOI 10.1016/j.mbs.2024.109146.",Optimal Control,,200
+"Qaiser, H., Ahmad, I. & Kashif, M. Fuzzy, synergetic and non-linear state feedback control of chemotherapy drug for a cancerous tumor. Biomed. Signal Process. Control. 62, 102061 (2020). DOI 10.1016/j.bspc.2020.102061.",Fuzzy Controller ,,60
+"Qaiser, H., Ahmad, I. & Kashif, M. Fuzzy, synergetic and non-linear state feedback control of chemotherapy drug for a cancerous tumor. Biomed. Signal Process. Control. 62, 102061 (2020). DOI 10.1016/j.bspc.2020.102061.",Synergetic Controller,,68
+"Qaiser, H., Ahmad, I. & Kashif, M. Fuzzy, synergetic and non-linear state feedback control of chemotherapy drug for a cancerous tumor. Biomed. Signal Process. Control. 62, 102061 (2020). DOI 10.1016/j.bspc.2020.102061.",Statefeedback Controller,,70
+"Arora, G., Bairagi, N. & Chatterjee, S. A mathematical model to study low-dose metronomic scheduling for chemotherapy. Math. Biosci. 372, 109186 (2024). DOI https://doi.org/10.1016/j.mbs.2024.109186.",Metronomic Scheduling,,100
+"Ay, S. & Soylu, S. Optimal fuzzy P + D controller for cancer chemotherapy. Biomed. Signal Process. Control. 96, 106634 (2024). DOI https://doi.org/10.1016/j.bspc.2024.106634.",Optimal Control,,20
+"Mashayekhi, H., Nazari, M., Jafarinejad, F. & Meskin, N. Deep reinforcement learning-based control of chemo-drug dose in cancer treatment. Comput. Methods Programs Biomed. 243, 107884 (2024). DOI https://doi.org/10.1016/j.cmpb.2023.107884",Deep Reinforcement Learning Algorithm ,,30
+"Rsetam, K., Al-Rawi, M., Cao, Z., Alsadoon, A. & Wang, L. Model based smooth super-twisting control of cancer chemotherapy treatment. Comput. Biol. Medicine 169, 107957 (2024). DOI 10.1016/j.compbiomed.2024.107957",Smooth Supertwisting,,15
+https://github.com/Arsalan-017/Tumor-Mitigation-using-SMC-and-Smooth-SMC,SMC,,22
+https://github.com/Arsalan-017/Tumor-Mitigation-using-SMC-and-Smooth-SMC,SMC,,20
+https://github.com/Arsalan-017/Tumor-Mitigation-using-SMC-and-Smooth-SMC,SMC,,25
+https://github.com/Arsalan-017/Tumor-Mitigation-using-SMC-and-Smooth-SMC,Smooth SMC,,45
+https://github.com/Arsalan-017/Tumor-Mitigation-using-SMC-and-Smooth-SMC,Smooth SMC,,45
+https://github.com/Arsalan-017/Tumor-Mitigation-using-SMC-and-Smooth-SMC,Smooth SMC,,47
+https://github.com/Arsalan-017/Tumor_Mitigation_PPO,PPO,,3
+https://github.com/Arsalan-017/Tumor_Mitigation_PPO,PPO,,5
+https://github.com/Arsalan-017/Tumor_Mitigation_PPO,PPO,,6
